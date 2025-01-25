@@ -1,5 +1,5 @@
 # My_first_project_phyton
-# Pruebas para el parámetro firstName al crear un/a usuario/a en []
+
 
 # Descripción del proyecto
 Este proyecto tiene como objetivo realizar pruebas automatizadas sobre un servicio web,
